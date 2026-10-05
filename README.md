@@ -1,6 +1,6 @@
-# EkubCircle
+# QiyasEqubCircle
 
-EkubCircle helps a group save together. Members contribute on a regular schedule and take turns receiving the shared pot.
+QiyasEqubCircle helps a group save together. Members contribute on a regular schedule and take turns receiving the shared pot.
 
 The project includes a .NET API, an Angular web app, a Flutter mobile app, and a PostgreSQL database. Fayda and OTP verification are simulated for the demo.
 
